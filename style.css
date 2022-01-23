@@ -1,0 +1,55 @@
+
+
+table {
+  border-collapse: collapse;
+  width: 65%;
+}
+
+th, td {
+  text-align: left;
+  padding: 10px;
+}
+
+tr:nth-child(even) {
+  background-color: white;
+}
+
+header {
+  float: center;  
+  width: 80%";
+  text-align: center;
+  font-size: 30px;
+  color: tan;
+  background-color: beige;
+}
+
+
+article {
+  float: center;
+  background-color: tan;
+  height: 1300px;
+  width: 70%;
+}
+
+
+h1 {
+   font-size: 60px;
+   color: #FFE4B5; 
+}
+
+
+h2 {
+   font-family: Book Antiqua;"
+   color: white; 
+}
+
+p  {
+   font-size: 25px;
+   color: white;
+}
+p3 { 
+     color: white;
+     font-size: 14px;
+     font-family: Palatino;
+     position: center;
+
